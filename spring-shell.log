@@ -1,0 +1,12 @@
+1658294159186:ssh -s good
+1658294226229:ssh -s test
+1658294232251:ssh -s test.good
+1658294238409:ssh -s test .
+1658294246484:ssh -s test s
+1658294860635:run_script -p /Users/hklee/data/test1.sct
+1658295930824:run_script -p /Users/hklee/data/test2.sct
+1658296871112:echo test
+1658296954893:what your name?
+1658296968036:echo what your name?
+1658296978317:echo 'what your name?'
+1658296990918:echo "what your name?"

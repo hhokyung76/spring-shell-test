@@ -1,0 +1,11 @@
+ public class Script {
+   private final String message;
+   private final int value;
+   public Script(String message, int value) {
+       this.message = message;
+       this.value = value;
+   }
+   public String getMessage() {
+       return "Message: " + message + value;
+   }
+}

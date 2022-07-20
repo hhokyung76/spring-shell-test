@@ -1,0 +1,5 @@
+public class Script {
+    public String main() {
+          return "Hello World";
+    }
+}
