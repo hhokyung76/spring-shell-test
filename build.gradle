@@ -29,6 +29,8 @@ dependencies {
     implementation 'com.google.guava:guava:31.1-jre'
     implementation 'ch.obermuhlner:java-scriptengine:2.0.0'
 
+    implementation 'com.google.cloud:google-cloud-translate:2.3.2'
+
 }
 
 tasks.named('test') {
